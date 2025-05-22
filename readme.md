@@ -6,6 +6,10 @@ Description: This document outlines the detailed analysis of project requirement
 
 ---
 
+## Setup Guid
+
+https://dev.to/shafayat/-express-typescript-eslint-prettiersetup-5fhg
+
 ### Entity-Relationship Diagrams
 
 ![ER DIAGRAM](./erdiagram.png)
